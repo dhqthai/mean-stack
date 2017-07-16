@@ -1,5 +1,5 @@
 # Mean-stack
-Install
+Required
 - MongoDB
 - NodeJS
 - Git-scm
